@@ -1,6 +1,7 @@
 # 💫 About Me:
-C++ & OutSystems Developer<br>Interested in OOP, Data Structures, Algorithms, Software Architecture, and Enterprise Application Development.
 
+Software Engineer | OutSystems Developer
+Interested in OOP, Data Structures, Algorithms, Software Architecture, and Enterprise Application Development.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/omarabdul-khalek/) 
